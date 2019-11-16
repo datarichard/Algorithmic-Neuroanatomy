@@ -1,0 +1,2596 @@
+9.0721	DATA	version E
+24.8505	DATA	Keypress: space
+24.8513	DATA	trigger received
+58.9914	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+59.0246	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+61.5971	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+61.6139	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+64.2030	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+64.2197	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+66.8089	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+66.8255	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+69.4148	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+69.4312	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+72.0039	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+72.0372	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+74.6097	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+74.6098	DATA	begin trial
+74.6273	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+75.5888	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+75.6386	DATA	earn R
+75.8213	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+77.2155	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+77.2322	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+77.6636	DATA	check
+78.6759	DATA	check
+79.6884	DATA	check
+79.8213	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+79.8379	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+80.7009	DATA	check
+81.7132	DATA	check
+82.4105	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+82.4439	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+82.7258	DATA	check
+83.7382	DATA	check
+84.7507	DATA	check
+85.0162	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+85.0330	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+85.7631	DATA	check
+85.7631	DATA	free L
+87.6223	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+87.6389	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+87.7880	DATA	check
+88.8006	DATA	check
+89.8130	DATA	check
+90.2282	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+90.2448	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+90.8254	DATA	check
+91.8379	DATA	check
+92.8171	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+92.8503	DATA	check
+92.8505	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+93.8627	DATA	check
+93.8627	DATA	free L
+95.4230	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+95.4398	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+95.8877	DATA	check
+96.9001	DATA	check
+97.9125	DATA	check
+98.0289	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+98.0456	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+98.9250	DATA	check
+99.9375	DATA	check
+100.6347	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+100.6512	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+100.9498	DATA	check
+101.9623	DATA	check
+101.9624	DATA	free L
+103.2405	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+103.2571	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+103.3069	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+103.5061	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+103.7052	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+103.8713	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+104.0703	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+104.0867	DATA	earn R
+104.2532	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+105.8296	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+105.8630	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+106.1118	DATA	check
+106.8920	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+107.0580	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+107.2739	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+107.4399	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+107.6223	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+107.7882	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+107.9875	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+108.1866	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+108.4354	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+108.4523	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+109.1989	DATA	check
+110.2114	DATA	check
+110.2114	DATA	free L
+111.0415	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+111.0583	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+111.5559	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+111.7385	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+111.9210	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+112.0706	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+112.2199	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+112.3857	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+112.5186	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+112.7011	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+113.0664	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+113.2324	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+113.3818	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+113.5645	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+113.6472	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+113.6638	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+113.6970	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+113.8795	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+113.9957	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+114.1783	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+114.6596	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+114.8423	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+115.0247	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+115.1909	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+115.6556	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+115.8214	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+116.1866	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+116.2364	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+116.2697	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+116.3526	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+117.3649	DATA	check
+117.3649	DATA	free L
+118.7592	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+118.8421	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+118.8589	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+118.9584	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+119.0913	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+119.2737	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+119.4398	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+119.6391	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+119.8216	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+119.9875	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+120.3361	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+120.5353	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+120.8339	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+121.0165	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+121.3484	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+121.4481	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+121.4647	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+121.5144	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+122.0123	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+122.1617	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+122.5102	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+122.6928	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+122.9418	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+123.1244	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+123.3237	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+123.5228	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+123.7386	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+123.9211	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+124.0538	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+124.0705	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+124.2698	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+124.4522	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+125.4646	DATA	check
+126.4770	DATA	check
+126.6430	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+126.6764	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+127.4894	DATA	check
+128.5019	DATA	check
+128.5019	DATA	free L
+129.2490	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+129.2656	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+129.7634	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+129.9459	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+130.1285	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+130.2946	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+130.4439	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+130.6266	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+130.7758	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+130.9916	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+131.1410	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+131.3236	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+131.6058	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+131.8051	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+131.8545	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+131.8712	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+132.1204	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+132.3361	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+132.6680	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+132.6845	DATA	earn R
+132.8672	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+134.1121	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+134.2614	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+134.4606	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+134.4773	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+135.2736	DATA	check
+136.2861	DATA	check
+137.0662	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+137.0830	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+137.2984	DATA	check
+138.3110	DATA	check
+138.3111	DATA	free L
+138.9422	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+139.1577	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+139.6555	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+139.6721	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+139.6889	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+139.8547	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+140.0043	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+140.1702	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+140.2698	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+140.4192	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+140.4854	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+140.6184	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+140.7011	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+140.8507	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+140.9334	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+141.0995	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+141.2324	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+141.4315	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+141.7469	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+141.9295	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+142.1951	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+142.2614	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+142.2779	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+142.3777	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+142.6763	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+142.8755	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+143.5560	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+143.5724	DATA	earn R
+143.7552	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+144.8672	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+144.8838	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+145.5974	DATA	check
+146.6098	DATA	check
+146.6098	DATA	free L
+147.4731	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+147.4898	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+148.6347	DATA	check
+149.0331	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+149.1825	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+149.3652	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+149.5645	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+149.7137	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+149.8961	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+150.0458	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+150.0623	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+150.0954	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+150.2282	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+150.4275	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+150.5933	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+150.7926	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+150.9586	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+151.1578	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+151.3402	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+151.5727	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+151.7718	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+151.9876	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+152.1535	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+152.3692	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+152.5353	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+152.6679	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+152.6846	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+152.7511	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+152.9170	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+153.1329	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+153.3154	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+153.5147	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+153.6806	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+153.8963	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+154.0624	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+154.2780	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+154.4275	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+154.6101	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+154.7595	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+155.0084	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+155.1909	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+155.2737	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+155.2906	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+155.5394	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+155.6389	DATA	earn R
+155.7493	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+157.6636	DATA	check
+157.6636	DATA	free L
+157.8800	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+157.8962	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+158.9088	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+159.1080	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+159.3900	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+159.5894	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+159.8050	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+160.0208	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+160.3528	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+160.4689	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+160.5021	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+160.5520	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+160.7014	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+160.9004	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+161.1163	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+161.2988	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+161.6972	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+161.9129	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+162.0956	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+162.3112	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+162.5436	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+162.7429	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+162.9916	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+163.0082	DATA	earn R
+163.1243	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+163.1410	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+163.2078	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+165.0331	DATA	check
+165.6805	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+165.6971	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+166.0456	DATA	check
+167.0580	DATA	check
+168.0703	DATA	check
+168.2864	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+168.3029	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+169.0829	DATA	check
+170.0954	DATA	check
+170.8922	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+170.9090	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+171.1078	DATA	check
+172.1203	DATA	check
+173.1327	DATA	check
+173.4813	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+173.5146	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+174.1452	DATA	check
+175.1576	DATA	check
+176.0376	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+176.0871	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+176.1039	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+176.2699	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+177.2821	DATA	check
+177.6307	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+177.8135	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+178.6930	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+178.7095	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+178.8255	DATA	check
+179.8381	DATA	check
+180.0375	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+180.2200	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+180.4689	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+180.6847	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+181.2989	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+181.3155	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+181.4318	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+181.6142	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+181.9296	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+182.1288	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+182.2781	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+182.4607	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+182.6267	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+182.8258	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+182.9918	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+183.1746	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+183.3737	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+183.5396	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+183.7718	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+183.8880	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+183.9214	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+183.9877	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+184.1869	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+184.4026	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+184.5851	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+184.7844	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+185.0002	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+185.1994	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+185.4815	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+185.7138	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+185.9130	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+186.1121	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+186.3943	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+186.4940	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+186.5106	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+186.5934	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+186.7925	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+186.9918	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+187.2077	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+187.4068	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+187.6392	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+187.8383	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+188.4358	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+188.6184	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+189.0499	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+189.0664	DATA	earn R
+189.1751	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+189.1827	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+189.2162	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+191.0913	DATA	check
+191.7055	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+191.7221	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+192.1037	DATA	check
+193.1161	DATA	check
+194.1284	DATA	check
+194.2947	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+194.3279	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+195.1411	DATA	check
+196.1535	DATA	check
+196.9004	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+196.9171	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+197.1658	DATA	check
+198.1785	DATA	check
+199.1909	DATA	check
+199.5064	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+199.5229	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+200.2033	DATA	check
+201.2157	DATA	check
+202.1120	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+202.1287	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+202.2283	DATA	check
+203.2407	DATA	check
+203.2407	DATA	free L
+204.2541	DATA	start rating A
+209.3487	DATA	EmulatedKey: 0
+209.6639	DATA	EmulatedKey: 0
+209.9129	DATA	EmulatedKey: 0
+214.2448	DATA	1.0
+214.2448	DATA	end rating A
+214.2451	DATA	start rating B
+217.2491	DATA	EmulatedKey: 1
+219.2408	DATA	EmulatedKey: 0
+224.2532	DATA	4.0
+224.2532	DATA	end rating B
+225.2160	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+225.4152	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+225.5314	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+225.5480	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+226.4274	DATA	check
+227.4399	DATA	check
+228.1207	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+228.1538	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+228.4524	DATA	check
+228.4524	DATA	free R
+230.4773	DATA	check
+230.4773	DATA	free R
+230.7264	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+230.7430	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+232.5022	DATA	check
+233.3321	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+233.3488	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+233.5146	DATA	check
+234.5271	DATA	check
+234.5272	DATA	free R
+235.9380	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+235.9545	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+236.5520	DATA	check
+237.5644	DATA	check
+237.5645	DATA	free R
+238.5439	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+238.5603	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+239.5894	DATA	check
+240.6018	DATA	check
+241.1330	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+241.1662	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+241.6143	DATA	check
+242.6267	DATA	check
+243.6390	DATA	check
+243.7387	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+243.7556	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+244.6516	DATA	check
+245.6640	DATA	check
+246.3448	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+246.3613	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+246.6764	DATA	check
+247.6889	DATA	check
+247.7722	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+247.9382	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+248.0543	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+248.2534	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+248.4027	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+248.6187	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+248.7513	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+248.9504	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+248.9671	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+248.9837	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+249.2162	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+249.4319	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+249.6477	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+249.8635	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+250.0294	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+250.2617	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+250.4109	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+250.6434	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+250.8262	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+251.0418	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+251.2410	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+251.4404	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+251.5398	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+251.5730	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+251.6891	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+251.9050	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+252.2037	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+252.4028	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+252.7016	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+252.9007	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+253.1497	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+253.3654	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+253.6641	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+253.8800	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+254.0793	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+254.1454	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+254.1621	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+254.3115	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+254.5108	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+254.7430	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+254.9422	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+255.1747	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+255.4569	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+255.6724	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+255.9381	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+255.9711	DATA	earn L
+256.1871	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+256.7514	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+256.7680	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+257.9961	DATA	check
+259.0085	DATA	check
+259.3573	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+259.3739	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+260.0209	DATA	check
+261.0334	DATA	check
+261.9463	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+261.9795	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+262.0458	DATA	check
+263.0583	DATA	check
+264.0707	DATA	check
+264.0708	DATA	free R
+264.5523	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+264.5689	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+266.0956	DATA	check
+267.1081	DATA	check
+267.1580	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+267.1747	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+268.1205	DATA	check
+269.1330	DATA	check
+269.7639	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+269.7804	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+270.1455	DATA	check
+271.1580	DATA	check
+271.1580	DATA	free R
+272.3697	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+272.3864	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+272.6353	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+272.7680	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+272.9671	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+273.1665	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+273.3157	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+273.5314	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+273.7139	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+273.9300	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+274.0460	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+274.2618	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+274.4280	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+274.6268	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+274.8095	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+274.9588	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+274.9754	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+274.9920	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+275.1912	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+275.3739	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+275.5730	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+275.7721	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+275.9879	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+276.1539	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+276.3530	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+276.5524	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+276.6685	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+276.8511	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+277.0503	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+277.2826	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+277.5647	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+277.5813	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+278.2948	DATA	check
+278.4278	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+278.6600	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+278.7931	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+278.9922	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+279.1082	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+279.3408	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+279.4402	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+279.6561	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+279.7888	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+279.9878	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+280.1539	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+280.1705	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+280.1871	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+280.3695	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+280.5024	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+280.7348	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+280.8841	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+281.1001	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+281.2826	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+281.5149	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+281.6477	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+281.6641	DATA	earn L
+281.8802	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+282.7763	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+282.7929	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+283.0421	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+283.2576	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+283.4070	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+283.6560	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+283.8219	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+284.0543	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+284.1706	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+284.3699	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+284.5190	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+284.7348	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+284.8677	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+284.8841	DATA	earn L
+285.0835	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+285.1830	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+285.3656	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+285.3824	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+285.3990	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+286.2618	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+286.4942	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+286.6105	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+286.8261	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+286.9091	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+287.1083	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+287.2080	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+287.4236	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+287.5066	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+287.7390	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+287.8387	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+287.9713	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+287.9879	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+288.0709	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+288.1705	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+288.4030	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+288.5855	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+288.8344	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+289.1332	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+289.3491	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+289.5979	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+289.7972	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+289.9466	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+290.1788	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+290.3117	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+290.5441	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+290.5771	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+290.5938	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+290.6768	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+290.9424	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+291.1582	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+291.4070	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+291.6229	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+291.8386	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+291.9881	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+292.2038	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+292.5026	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+292.7182	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+292.8344	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+293.0336	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+293.1663	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+293.1829	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+293.1995	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+293.3987	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+293.6644	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+293.8800	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+294.0462	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+294.2454	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+294.3780	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+294.5607	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+294.6934	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+294.8925	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+295.0919	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+295.3075	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+295.4570	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+295.6393	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+295.7888	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+295.8054	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+296.0212	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+296.2039	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+296.4360	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+296.7183	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+296.9339	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+297.1499	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+297.2492	DATA	earn L
+297.3491	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+297.5817	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+297.7973	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+298.1955	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+298.3779	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+298.3946	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+299.4068	DATA	check
+300.4194	DATA	check
+300.9838	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+301.0004	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+301.4319	DATA	check
+302.4443	DATA	check
+302.4443	DATA	free R
+303.5897	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+303.6064	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+304.4692	DATA	check
+305.4817	DATA	check
+306.1954	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+306.2120	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+306.4941	DATA	check
+307.5066	DATA	check
+308.5190	DATA	check
+308.7846	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+308.8180	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+309.5314	DATA	check
+310.5438	DATA	check
+311.3905	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+311.4071	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+311.5563	DATA	check
+311.5564	DATA	free R
+312.9009	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+313.1001	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+313.2495	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+313.4651	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+313.5982	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+313.7972	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+313.9467	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+313.9963	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+314.0129	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+314.1458	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+314.2784	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+314.4777	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+314.6603	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+314.8595	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+315.0421	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+315.2410	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+315.3739	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+315.6063	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+315.7724	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+315.9880	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+316.1208	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+316.3368	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+316.4860	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+316.6022	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+316.6188	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+316.7017	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+316.8678	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+317.0669	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+317.2330	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+317.4154	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+317.5815	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+317.7973	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+317.9134	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+318.1458	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+318.3615	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+318.5773	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+318.7434	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+318.9591	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+319.1084	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+319.1913	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+319.2245	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+319.3078	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+319.6063	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+319.8221	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+319.9714	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+320.1708	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+320.4195	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+320.6520	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+320.7848	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+321.0336	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+321.1666	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+321.3823	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+321.4984	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+321.7475	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+321.7970	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+321.8138	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+321.8637	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+322.0961	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+322.1956	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+322.4278	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+322.6603	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+322.8761	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+322.9923	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+323.2244	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+323.3408	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+323.5566	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+323.6395	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+323.8886	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+323.9714	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+324.2038	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+324.3366	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+324.4030	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+324.4197	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+324.5689	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+324.7847	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+325.0337	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+325.1499	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+325.1663	DATA	earn L
+325.3989	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+325.4821	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+325.6811	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+327.0089	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+327.0255	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+327.1913	DATA	check
+328.2037	DATA	check
+328.2038	DATA	free R
+329.5980	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+329.6313	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+330.2287	DATA	check
+331.2411	DATA	check
+331.2412	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+331.4237	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+331.4902	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+331.7059	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+331.7558	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+331.9716	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+332.0712	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+332.2040	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+332.2206	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+332.3036	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+333.3158	DATA	check
+333.4488	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+333.6644	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+333.9466	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+334.1623	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+334.4280	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+334.6439	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+334.8096	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+334.8263	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+334.8928	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+335.1084	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+335.3906	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+335.5898	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+335.8886	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+336.1044	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+336.3865	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+336.5856	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+336.9176	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+337.1169	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+337.3988	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+337.4154	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+337.4322	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+337.6312	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+337.9134	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+338.1293	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+338.4115	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+338.5773	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+338.8762	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+339.0753	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+339.3242	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+339.5566	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+339.8056	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+340.0213	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+340.0379	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+340.0545	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+340.3200	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+340.5526	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+340.7683	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+341.0005	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+341.3325	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+341.5649	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+342.0298	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+342.2453	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+342.5443	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+342.6107	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+342.6438	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+342.7433	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+343.0587	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+343.2745	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+343.5565	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+343.5896	DATA	earn L
+343.8055	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+345.2162	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+345.2330	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+345.6146	DATA	check
+346.6270	DATA	check
+346.6270	DATA	free R
+347.6396	DATA	start rating A
+351.1252	DATA	EmulatedKey: 1
+357.6312	DATA	5.0
+357.6312	DATA	end rating A
+357.6314	DATA	start rating B
+361.9966	DATA	EmulatedKey: 0
+362.2456	DATA	EmulatedKey: 0
+362.4611	DATA	EmulatedKey: 0
+362.8430	DATA	EmulatedKey: 0
+363.6065	DATA	EmulatedKey: 1
+364.0213	DATA	EmulatedKey: 0
+367.6396	DATA	1.0
+367.6397	DATA	end rating B
+368.6189	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+368.6353	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+368.6519	DATA	earn L
+368.6522	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+368.8185	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+370.6767	DATA	check
+371.2411	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+371.2580	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+371.6893	DATA	check
+372.7017	DATA	check
+373.7142	DATA	check
+373.8471	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+373.8639	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+374.7266	DATA	check
+375.7391	DATA	check
+376.4363	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+376.4696	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+376.7515	DATA	check
+377.7640	DATA	check
+378.7764	DATA	check
+378.7765	DATA	free R
+379.0422	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+379.0589	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+380.8013	DATA	check
+381.6478	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+381.6647	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+381.8139	DATA	check
+382.8263	DATA	check
+383.8387	DATA	check
+384.2537	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+384.2704	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+384.8513	DATA	check
+385.8636	DATA	check
+386.8429	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+386.8760	DATA	check
+386.8762	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+387.8885	DATA	check
+388.9009	DATA	check
+389.4488	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+389.4655	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+389.9134	DATA	check
+390.9257	DATA	check
+390.9258	DATA	free R
+392.0546	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+392.0712	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+392.9508	DATA	check
+393.9631	DATA	check
+394.6604	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+394.6770	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+394.9757	DATA	check
+395.9881	DATA	check
+397.0006	DATA	check
+397.2662	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+397.2829	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+398.0130	DATA	check
+399.0255	DATA	check
+399.8554	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+399.8887	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+400.0378	DATA	check
+401.0504	DATA	check
+402.0629	DATA	check
+402.4613	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+402.4779	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+403.0753	DATA	check
+404.0878	DATA	check
+405.0671	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+405.0839	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+405.1002	DATA	check
+406.1126	DATA	check
+407.1251	DATA	check
+407.1251	DATA	free R
+407.6731	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+407.6898	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+408.3204	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+408.5859	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+408.8182	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+409.0174	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+409.2332	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+409.4323	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+409.6316	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+409.8140	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+410.0300	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+410.2290	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+410.2622	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+410.2955	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+410.4449	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+410.6273	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+410.8764	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+411.0756	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+411.2748	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+411.4406	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+411.6729	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+411.8555	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+412.0878	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+412.2706	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+412.5194	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+412.7021	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+412.8679	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+412.8847	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+413.0007	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+413.2333	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+413.4157	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+413.6481	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+413.8805	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+414.1128	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+414.4116	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+414.5943	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+414.8596	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+415.2416	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+415.4407	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+415.4738	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+415.4903	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+415.6565	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+415.8888	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+416.1212	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+416.3368	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+416.5693	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+416.8350	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+417.0507	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+417.3494	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+417.5486	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+417.7642	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+417.9968	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+418.0797	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+418.0962	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+418.2125	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+418.4448	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+418.6273	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+418.9261	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+419.1585	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+419.1749	DATA	earn L
+419.4078	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+419.6235	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+419.8725	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+420.1049	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+420.3369	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+420.5526	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+420.6687	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+420.7020	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+420.7851	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+420.9677	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+421.2331	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+421.4655	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+421.7144	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+421.9636	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+422.1960	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+422.4117	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+422.6939	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+422.8599	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+423.1088	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+423.2747	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+423.2913	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+423.3412	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+423.6067	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+423.8057	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+424.0382	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+424.2872	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+424.5029	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+424.7684	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+424.9843	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+425.2166	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+425.4157	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+425.6149	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+425.6314	DATA	earn L
+425.8642	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+425.8805	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+425.8972	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+426.1629	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+426.3952	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+426.6460	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+426.9095	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+427.0921	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+427.3577	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+427.5736	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+427.6561	DATA	earn L
+427.8225	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+428.0549	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+428.3536	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+428.4864	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+428.5032	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+428.5528	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+428.8182	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+429.0340	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+429.2498	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+429.5154	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+429.6812	DATA	earn L
+429.7744	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+429.9138	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+430.1463	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+430.3785	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+430.6975	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+430.8930	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+431.0920	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+431.1088	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+431.1420	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+431.3078	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+431.6234	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+431.7395	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+432.4698	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+432.5693	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+432.8348	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+433.0174	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+433.2500	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+433.4492	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+433.6813	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+433.6978	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+433.7310	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+433.8971	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+434.1960	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+434.3785	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+434.6274	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+434.8099	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+434.9261	DATA	earn L
+435.1087	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+435.3245	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+435.5903	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+435.8393	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+436.1047	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+436.2872	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+436.3037	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+436.3203	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+436.6026	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+437.6148	DATA	check
+438.6271	DATA	check
+438.8928	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+438.9094	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+439.6397	DATA	check
+440.6522	DATA	check
+440.6522	DATA	free R
+441.4989	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+441.5157	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+442.6771	DATA	check
+443.6895	DATA	check
+443.6895	DATA	free R
+444.0882	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+444.1214	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+445.7144	DATA	check
+446.6937	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+446.7105	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+446.7269	DATA	check
+447.7393	DATA	check
+448.7518	DATA	check
+448.7685	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+448.7849	DATA	earn L
+449.0177	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+449.2997	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+449.3163	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+450.1130	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+450.3452	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+450.4782	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+450.7105	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+450.8100	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+451.0258	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+451.1255	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+451.4077	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+451.9053	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+451.9219	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+452.4198	DATA	check
+453.1834	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+453.4492	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+454.2125	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+454.2290	DATA	earn L
+454.4282	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+454.4947	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+454.5282	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+455.6235	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+455.8557	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+456.4035	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+456.5695	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+457.1005	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+457.1173	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+457.1670	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+457.4323	DATA	earn L
+457.5211	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+459.4572	DATA	check
+459.7062	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+459.7230	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+460.4698	DATA	check
+460.4698	DATA	free R
+462.3123	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+462.3287	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+462.4946	DATA	check
+463.5070	DATA	check
+464.5194	DATA	check
+464.9178	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+464.9346	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+465.5319	DATA	check
+466.5444	DATA	check
+467.5073	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+467.5404	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+467.5568	DATA	check
+468.5691	DATA	check
+469.5818	DATA	check
+470.1130	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+470.1296	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+470.5942	DATA	check
+470.5943	DATA	free R
+471.6731	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+471.8725	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+472.1545	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+472.4202	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+472.5860	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+472.6191	DATA	earn L
+472.7130	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+472.7357	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+472.7854	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+472.9180	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+473.1506	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+473.5324	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+473.7314	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+473.9637	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+474.1794	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+474.3953	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+474.6441	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+474.8764	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+475.1587	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+475.3246	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+475.3412	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+475.3910	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+475.6400	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+475.8227	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+476.0715	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+476.3206	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+476.5693	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+476.8517	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+477.1006	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+477.3995	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+477.6315	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+477.8474	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+477.9137	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+477.9472	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+478.0964	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+478.3122	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+478.5777	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+478.7936	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+478.8929	DATA	earn L
+479.0259	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+479.3415	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+479.5572	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+479.8229	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+480.0716	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+480.3372	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+480.5195	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+480.5361	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+480.5528	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+480.8019	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+481.0344	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+481.2167	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+481.4326	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+481.6815	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+481.8972	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+482.1794	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+482.3951	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+482.6610	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+482.8930	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+483.1254	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+483.1420	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+483.1586	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+483.2083	DATA	earn L
+483.3581	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+483.5905	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+483.7896	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+484.0717	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+484.3040	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+484.5531	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+484.7852	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+485.0509	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+485.2665	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+485.5821	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+485.7311	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+485.7480	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+485.7975	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+486.1298	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+486.2457	DATA	earn L
+486.3621	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+486.5944	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+486.8268	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+488.2704	DATA	check
+488.3204	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+488.3537	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+489.2831	DATA	check
+490.2955	DATA	check
+490.9263	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+490.9431	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+491.3078	DATA	check
+492.3204	DATA	check
+493.3328	DATA	check
+493.5321	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+493.5488	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+494.3453	DATA	check
+495.3577	DATA	check
+496.1382	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+496.1545	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+496.3701	DATA	check
+497.3827	DATA	check
+498.3951	DATA	check
+498.7272	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+498.7604	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+499.4075	DATA	check
+500.4200	DATA	check
+501.3329	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+501.3662	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+501.4324	DATA	check
+502.4449	DATA	check
+503.4573	DATA	check
+503.9386	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+503.9553	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+504.4698	DATA	check
+504.4698	DATA	free R
+505.4826	DATA	start rating A
+508.8018	DATA	EmulatedKey: 0
+509.5155	DATA	EmulatedKey: 1
+509.7811	DATA	EmulatedKey: 1
+510.4616	DATA	EmulatedKey: 1
+515.4739	DATA	6.0
+515.4739	DATA	end rating A
+515.4742	DATA	start rating B
+516.6193	DATA	EmulatedKey: 0
+516.8682	DATA	EmulatedKey: 0
+517.1006	DATA	EmulatedKey: 0
+517.6983	DATA	EmulatedKey: 0
+525.4823	DATA	1.0
+525.4823	DATA	end rating B
+526.4948	DATA	check
+526.5449	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+526.7605	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+527.0261	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+527.2417	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+527.3579	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+527.3746	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+527.4245	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+527.5736	DATA	earn L
+527.6689	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+529.5985	DATA	check
+529.9638	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+529.9804	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+530.6110	DATA	check
+530.6110	DATA	free L
+532.5698	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+532.5863	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+532.6357	DATA	check
+533.6483	DATA	check
+534.6608	DATA	check
+534.6608	DATA	free L
+535.1588	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+535.1923	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+536.6857	DATA	check
+536.6857	DATA	free L
+537.7646	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+537.7813	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+538.7106	DATA	check
+539.7230	DATA	check
+540.3707	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+540.3870	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+540.7354	DATA	check
+540.7522	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+540.9347	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+541.1008	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+541.2668	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+541.4328	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+541.5986	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+541.8144	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+541.9972	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+542.2293	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+542.4121	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+542.6776	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+542.8269	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+542.9761	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+542.9929	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+543.0425	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+543.2086	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+543.4741	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+543.6569	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+543.8725	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+544.0719	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+544.2543	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+544.4369	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+544.6693	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+544.8851	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+545.0675	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+545.2669	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+545.4493	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+545.5655	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+545.5821	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+545.6155	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+545.8146	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+545.9970	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+546.2129	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+546.3955	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+546.5615	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+546.7440	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+546.9432	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+547.1257	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+547.3248	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+547.3413	DATA	earn R
+547.5242	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+548.1712	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+548.1879	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+549.3662	DATA	check
+550.3786	DATA	check
+550.3786	DATA	free L
+550.7772	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+550.7940	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+552.4035	DATA	check
+553.3830	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+553.3997	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+553.4160	DATA	check
+554.4285	DATA	check
+554.4285	DATA	free L
+555.9722	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+556.0054	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+556.4532	DATA	check
+557.4658	DATA	check
+558.4783	DATA	check
+558.4784	DATA	free L
+558.5769	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+558.5949	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+560.5032	DATA	check
+560.5033	DATA	free L
+561.1838	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+561.2005	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+562.5281	DATA	check
+563.5405	DATA	check
+563.7895	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+563.8064	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+564.5530	DATA	check
+564.5530	DATA	free L
+566.3790	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+566.4122	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+566.5778	DATA	check
+566.5778	DATA	free L
+568.6027	DATA	check
+568.6028	DATA	free L
+568.9848	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+569.0017	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+570.6277	DATA	check
+571.5905	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+571.6071	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+571.6400	DATA	check
+572.6525	DATA	check
+573.6649	DATA	check
+574.1963	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+574.2130	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+574.6775	DATA	check
+575.6899	DATA	check
+575.6899	DATA	free L
+576.8022	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+576.8187	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+577.7148	DATA	check
+578.7273	DATA	check
+578.8601	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+578.8766	DATA	earn R
+578.9920	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+579.3250	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+579.3913	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+579.4248	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+579.5078	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+579.7233	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+579.9226	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+580.0387	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+580.2213	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+580.4868	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+580.6859	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+580.9184	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+581.1009	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+581.3332	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+581.5325	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+581.7150	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+581.9308	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+581.9970	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+582.0138	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+582.1963	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+582.3954	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+582.6775	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+582.8769	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+583.1259	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+583.2251	DATA	earn R
+583.3390	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+583.5242	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+583.7068	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+583.9392	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+584.1548	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+584.3542	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+584.5533	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+584.6031	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+584.6194	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+584.8021	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+585.0346	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+585.3002	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+585.4991	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+585.7316	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+585.9474	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+586.1631	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+586.3790	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+586.6278	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+586.8271	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+587.0927	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+587.2086	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+587.2253	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+587.2918	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+587.5573	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+587.7732	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+588.0552	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+588.2543	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+588.4705	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+588.6859	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+589.6983	DATA	check
+589.7979	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+589.8312	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+590.7107	DATA	check
+591.7232	DATA	check
+592.4039	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+592.4204	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+592.7357	DATA	check
+593.7481	DATA	check
+593.7481	DATA	free L
+595.0098	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+595.0262	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+595.7728	DATA	check
+596.7854	DATA	check
+597.6156	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+597.6320	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+597.7979	DATA	check
+598.8103	DATA	check
+599.8227	DATA	check
+600.2213	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+600.2379	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+600.8352	DATA	check
+601.8476	DATA	check
+601.8476	DATA	free L
+602.8109	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+602.8440	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+603.1924	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+603.2588	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+603.6735	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+603.8396	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+604.1216	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+604.1381	DATA	earn R
+604.3208	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+604.5532	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+604.7358	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+604.9352	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+605.1176	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+605.3831	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+605.4163	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+605.4330	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+605.5492	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+605.9806	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+606.1299	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+607.1423	DATA	check
+607.4246	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+607.4411	DATA	earn R
+607.6074	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+607.7569	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+607.9392	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+608.0224	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+608.0388	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+608.1881	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+608.4042	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+608.5866	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+608.8023	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+608.9184	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+609.1177	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+610.1298	DATA	check
+610.1298	DATA	free L
+610.6281	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+610.6448	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+612.1547	DATA	check
+612.1547	DATA	free L
+613.2170	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+613.2506	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+614.1797	DATA	check
+615.1921	DATA	check
+615.8229	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+615.8395	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+616.2044	DATA	check
+617.2171	DATA	check
+617.2171	DATA	free L
+618.4288	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+618.4455	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+618.6944	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+618.8934	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+619.0760	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+619.2754	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+619.4246	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+619.6404	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+619.7898	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+620.0223	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+620.1550	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+620.2544	DATA	earn R
+620.3777	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+620.5204	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+620.7359	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+620.9187	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+621.0349	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+621.0515	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+621.1343	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+621.3499	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+621.5656	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+621.7318	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+621.8976	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+622.1634	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+622.3958	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+622.6445	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+622.8603	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+623.1094	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+623.2916	DATA	earn R
+623.4055	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+623.6240	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+623.6573	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+623.8728	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+624.4040	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+624.6197	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+625.6320	DATA	check
+626.2296	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+626.2463	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+626.6444	DATA	check
+627.6569	DATA	check
+628.6693	DATA	check
+628.8355	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+628.8520	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+629.6818	DATA	check
+629.6818	DATA	free L
+631.4412	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+631.4580	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+631.7066	DATA	check
+632.7191	DATA	check
+633.7316	DATA	check
+634.0470	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+634.0636	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+634.7439	DATA	check
+635.7565	DATA	check
+636.6364	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+636.6530	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+636.7689	DATA	check
+637.7815	DATA	check
+638.7938	DATA	check
+639.2421	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+639.2588	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+639.8063	DATA	check
+640.8188	DATA	check
+641.8313	DATA	check
+641.8480	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+641.8647	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+642.3790	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+642.5782	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+642.7443	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+642.9599	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+643.1261	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+643.3253	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+643.5410	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+643.7235	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+643.8895	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+644.0720	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+644.2710	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+644.4537	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+644.4703	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+644.4869	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+644.7026	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+644.7192	DATA	earn R
+644.9187	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+645.4332	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+645.6325	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+645.8813	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+646.0970	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+646.2630	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+646.4622	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+646.6447	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+646.8272	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+647.0429	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+647.0594	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+647.0763	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+647.2921	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+647.4911	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+647.6904	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+647.9060	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+648.1218	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+648.6529	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+648.8687	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+649.0678	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+649.2505	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+649.4995	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+649.6487	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+649.6653	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+649.6986	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+649.8979	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+650.1137	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+650.3293	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+650.5284	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+650.7112	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+650.9102	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+651.0930	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+651.1093	DATA	earn R
+651.3087	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+651.9228	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+652.1219	DATA	start rating A
+652.3376	DATA	EmulatedKey: 1
+654.2795	DATA	EmulatedKey: 0
+654.5617	DATA	EmulatedKey: 0
+654.7774	DATA	EmulatedKey: 0
+654.9931	DATA	EmulatedKey: 0
+662.1134	DATA	1.0
+662.1134	DATA	end rating A
+662.1137	DATA	start rating B
+662.7276	DATA	EmulatedKey: 1
+664.5699	DATA	EmulatedKey: 0
+672.1217	DATA	4.0
+672.1217	DATA	end rating B
+672.9683	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+673.0680	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+673.0845	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+673.1509	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+674.1633	DATA	check
+675.1757	DATA	check
+675.6738	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+675.6905	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+676.1882	DATA	check
+676.1882	DATA	free L
+678.2131	DATA	check
+678.2797	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+678.2964	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+679.2255	DATA	check
+679.2255	DATA	free L
+680.8688	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+680.9021	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+681.2504	DATA	check
+682.2629	DATA	check
+683.2753	DATA	check
+683.2754	DATA	free L
+683.4746	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+683.4915	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+685.3002	DATA	check
+686.0804	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+686.0970	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+686.3127	DATA	check
+687.3251	DATA	check
+688.3375	DATA	check
+688.6861	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+688.7029	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+689.3499	DATA	check
+689.3499	DATA	free L
+690.3958	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+690.5618	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+690.8938	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+691.0598	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+691.2590	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+691.2754	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+691.3088	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+691.4582	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+691.6738	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+691.8732	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+692.0723	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+692.2547	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+692.4705	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+692.6697	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+692.8523	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+693.0349	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+693.2507	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+693.4498	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+693.6324	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+693.8314	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+693.8813	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+693.8979	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+694.0474	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+694.2466	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+694.4623	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+694.6779	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+694.8938	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+695.1096	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+695.3252	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+695.4912	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+695.7403	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+695.7567	DATA	earn R
+695.9229	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+696.2551	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+696.4540	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+696.4871	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+696.5036	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+696.7710	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+696.8855	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+697.8977	DATA	check
+697.9147	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+698.1137	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+698.2796	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+698.4954	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+698.6449	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+698.8606	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+699.0265	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+699.0929	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+699.1097	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+699.2587	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+699.4581	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+699.7070	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+699.9561	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+700.0555	DATA	earn L
+700.1721	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+700.3050	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+700.5037	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+700.8025	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+701.0348	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+701.2175	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+701.4498	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+701.5494	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+701.6989	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+701.7152	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+701.7817	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+701.9147	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+702.3791	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+702.4455	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+702.7113	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+702.7778	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+703.0098	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+703.1096	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+703.3917	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+703.5079	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+703.7569	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+703.8565	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+704.1053	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+704.2049	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+704.2213	DATA	earn L
+704.3124	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+704.3215	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+704.4541	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+704.6368	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+704.9021	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+706.2463	DATA	check
+706.8937	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+706.9104	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+707.2588	DATA	check
+707.2588	DATA	free L
+707.2591	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+709.2836	DATA	earn L
+709.4997	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+709.5164	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+712.1055	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+712.1221	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+714.6947	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+714.7278	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+715.3583	DATA	earn L
+717.3003	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+717.3170	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+717.3669	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+718.3792	DATA	check
+719.3916	DATA	check
+719.5081	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+719.8067	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+719.9062	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+719.9228	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+720.1055	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+720.1885	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+720.3379	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+720.4043	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+720.5367	DATA	earn R
+720.6499	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+720.6700	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+720.7861	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+721.7319	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+721.9146	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+722.0475	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+722.2298	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+722.3296	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+722.4790	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+722.5120	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+722.5285	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+722.5620	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+722.5784	DATA	earn R
+722.6939	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+723.8731	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+724.0389	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+724.1220	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+724.2713	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+724.3545	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+724.4872	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+724.5702	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+724.7361	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+725.1012	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+725.1346	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+725.5662	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+725.7486	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+725.8647	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+726.0142	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+726.1136	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+726.2466	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+726.3295	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+726.5122	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+727.2757	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+727.4249	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+727.5576	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+727.7070	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+727.7238	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+727.7404	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+727.8233	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+727.9728	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+728.0722	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+728.2548	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+729.0516	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+729.0680	DATA	earn R
+729.2012	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+729.3338	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+729.4831	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+729.5993	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+729.7653	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+729.8485	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+730.0475	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+730.3130	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+730.3295	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+730.7112	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+730.9106	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+730.9934	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+731.1430	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+731.2425	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+731.4250	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+731.6408	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+731.8399	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+732.8523	DATA	check
+732.9189	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+732.9354	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+733.5329	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+733.6988	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+733.8151	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+733.9644	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+734.0806	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+734.2632	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+734.3129	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+734.4957	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+735.3419	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+735.4416	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+735.5247	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+735.5413	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+735.8567	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+735.9727	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+736.3546	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+736.5038	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+736.7695	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+736.9852	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+737.1511	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+737.3337	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+737.5992	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+737.8152	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+737.9975	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+738.1137	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+738.1471	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+738.1969	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+738.4457	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+738.6116	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+738.8773	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+739.0434	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+739.4251	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+739.6075	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+739.7900	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+739.9230	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+740.2053	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+740.4209	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+740.7196	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+740.7363	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+740.8857	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+741.0683	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+742.0804	DATA	check
+743.0100	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+743.1263	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+743.3254	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+743.3422	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+744.1386	DATA	check
+745.1510	DATA	check
+745.9312	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+745.9479	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+746.1635	DATA	check
+747.1759	DATA	check
+747.1759	DATA	free L
+748.5205	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+748.5538	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+749.2008	DATA	check
+750.2133	DATA	check
+751.1262	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+751.1429	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+751.2258	DATA	check
+752.2382	DATA	check
+753.2506	DATA	check
+753.7322	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+753.7487	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+754.2631	DATA	check
+755.2755	DATA	check
+756.2879	DATA	check
+756.2880	DATA	free L
+756.3839	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+756.4043	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+758.3129	DATA	check
+758.9271	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+758.9603	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+759.3253	DATA	check
+760.3379	DATA	check
+761.3502	DATA	check
+761.5329	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+761.5661	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+762.3627	DATA	check
+763.3752	DATA	check
+763.3752	DATA	free L
+764.1389	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+764.1555	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+765.4001	DATA	check
+766.4125	DATA	check
+766.4125	DATA	free L
+766.7449	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+766.7615	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+768.4374	DATA	check
+769.3504	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+769.3671	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+769.4497	DATA	check
+769.4997	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+769.6989	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+769.9646	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+770.1635	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+770.3462	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+770.5289	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+770.7612	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+770.9605	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+771.2260	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+771.4086	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+771.7239	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+771.9230	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+771.9396	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+771.9730	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+772.1553	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+772.3215	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+772.5704	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+772.7697	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+772.9521	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+773.1513	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+773.3504	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+773.5496	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+773.7654	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+773.9480	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+774.1803	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+774.3962	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+774.5455	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+774.5621	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+774.7612	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+774.9936	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+775.2094	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+775.4418	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+775.6410	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+775.8401	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+776.0227	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+776.2552	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+776.4543	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+776.6701	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+776.8525	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+777.0681	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+777.1512	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+777.1680	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+777.2840	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+777.4834	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+777.6823	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+777.8982	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+778.1140	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+778.3298	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+778.5454	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+778.7777	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+778.9603	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+779.1929	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+779.3755	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+779.6575	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+779.7570	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+779.7736	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+779.8733	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+780.1056	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+780.3380	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+780.5704	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+780.7860	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+781.0851	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+781.3174	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+781.5331	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+781.7487	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+782.1305	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+782.2466	DATA	earn R
+782.2470	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+782.3635	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+782.3796	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+784.2716	DATA	check
+784.9520	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+784.9688	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+785.2839	DATA	check
+786.2964	DATA	check
+787.3088	DATA	check
+787.3089	DATA	free L
+787.5581	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+787.5748	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+789.3338	DATA	check
+790.1638	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+790.1804	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+790.3462	DATA	check
+790.3462	DATA	free L
+791.7073	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+791.9231	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+792.1389	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+792.3547	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+792.5207	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+792.7199	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+792.7529	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+792.7863	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+792.9190	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+793.1181	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+793.3504	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+793.5664	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+793.7819	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+793.9813	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+794.1805	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+794.3462	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+794.6119	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+794.8277	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+795.0767	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+795.2924	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+795.3587	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+795.3755	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+795.5081	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+795.7241	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+795.9896	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+796.2053	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+796.4708	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+796.6867	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+796.9189	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+797.1346	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+797.4334	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+797.6494	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+797.8816	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+797.9645	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+797.9811	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+798.0973	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+798.3298	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+798.5788	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+799.0932	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+799.1097	DATA	earn R
+799.3091	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+799.5414	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+799.7241	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+800.1226	DATA	start rating A
+800.3381	DATA	EmulatedKey: 0
+801.8816	DATA	EmulatedKey: 0
+802.1139	DATA	EmulatedKey: 0
+810.1139	DATA	1.0
+810.1139	DATA	end rating A
+810.1142	DATA	start rating B
+820.1225	DATA	4.0
+820.1225	DATA	end rating B
+821.1346	DATA	check
+821.3672	DATA	{'pressed': True, 'port': 0, 'key': 1, 'time': 0}
+821.3837	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+821.4003	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+821.5665	DATA	{'pressed': False, 'port': 0, 'key': 1, 'time': 0}
+822.5787	DATA	check
+823.5911	DATA	check
+823.9895	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+824.0063	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+824.6036	DATA	check
+825.6160	DATA	check
+826.5787	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+826.6119	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+826.6284	DATA	check
+827.6409	DATA	check
+828.6533	DATA	check
+829.1846	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+829.2011	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+829.6658	DATA	check
+829.6659	DATA	free R
+831.6907	DATA	check
+831.7904	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+831.8071	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+832.7032	DATA	check
+833.7156	DATA	check
+834.3963	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+834.4128	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+834.7280	DATA	check
+835.7405	DATA	check
+836.7529	DATA	check
+836.7530	DATA	free R
+837.0021	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+837.0187	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+838.7778	DATA	check
+839.5911	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+839.6244	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+839.7903	DATA	check
+840.8027	DATA	check
+841.8152	DATA	check
+842.1970	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+842.2135	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+842.8277	DATA	check
+843.8401	DATA	check
+844.8029	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+844.8194	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+844.8524	DATA	check
+844.8525	DATA	free R
+846.1641	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+846.4130	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+846.5456	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+846.7781	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+846.9441	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+847.1599	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+847.2926	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+847.4087	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+847.4252	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+847.5084	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+847.6907	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+847.9398	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+848.0728	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+848.3051	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+848.4709	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+848.6867	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+848.8859	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+849.0852	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+849.3341	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+849.5334	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+849.7821	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+849.9814	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+849.9979	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+850.0313	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+850.2138	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+850.4296	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+850.6121	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+850.8445	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+851.0436	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+851.2926	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+851.4751	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+851.7241	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+851.9065	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+852.1390	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+852.3218	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+852.5375	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+852.6037	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+852.6202	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+852.7200	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+852.9689	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+853.1682	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+853.3673	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+853.6163	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+853.6326	DATA	earn L
+853.8323	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+853.9981	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+854.2304	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+854.4629	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+854.6951	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+854.8942	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+855.1266	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+855.2095	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+855.2260	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+855.2760	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+855.5083	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+855.7407	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+855.7572	DATA	earn L
+855.9730	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+856.1392	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+856.3882	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+856.5873	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+856.8361	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+857.0187	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+857.2679	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+857.3672	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+857.6328	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+857.8154	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+857.8318	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+857.8651	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+858.0644	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+858.2968	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+858.5457	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+858.7117	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+858.9441	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+859.1432	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+859.3922	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+859.5581	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+859.7572	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+859.9066	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+859.9231	DATA	earn L
+860.1226	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+860.3881	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+860.4047	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+860.4381	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+860.6040	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+860.8693	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+861.0851	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+861.3008	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+861.5499	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+861.6993	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+861.9316	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+862.1806	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+862.3964	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+862.6454	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+862.8610	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+863.0105	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+863.0270	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+863.0603	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+863.2094	DATA	earn L
+863.3053	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+863.5585	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+863.7576	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+863.9900	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+864.2057	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+864.3881	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+864.6203	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+864.7864	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+865.0686	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+865.2345	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+865.4836	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+865.6163	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+865.6329	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+865.6661	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+865.9150	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+866.0811	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+866.3133	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+866.5457	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+866.7616	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+866.9440	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+867.2096	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+867.3590	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+867.6082	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+867.7741	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+868.0230	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+868.2221	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+868.2387	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+868.4709	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+868.6703	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+868.9026	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+869.0686	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+869.3175	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+869.5168	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+869.7491	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+869.9481	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+870.1805	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+870.3632	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+870.6120	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+870.7449	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+870.8279	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+870.8445	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+870.9441	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+871.2760	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+871.4419	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+871.7076	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+871.9234	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+872.1392	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+872.3549	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+872.6040	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+872.8363	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+873.0021	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+873.2179	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+873.4171	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+873.4337	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+873.4502	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+873.6496	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+873.8985	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+874.1309	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+874.3963	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+874.6287	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+874.8778	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+875.1101	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+875.3259	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+875.5749	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+875.8570	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+876.0227	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+876.0396	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+876.0727	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+876.4045	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+876.6536	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+876.8694	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+877.1515	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+877.3341	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+877.5996	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+877.9316	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+877.9646	DATA	earn L
+878.1308	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+878.6289	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+878.6454	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+879.1102	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+879.3093	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+879.5749	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+879.8239	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+880.0064	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+880.2554	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+880.3218	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+880.5375	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+880.7698	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+881.0189	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+881.2346	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+881.2512	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+881.3674	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+881.3838	DATA	earn L
+881.5831	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+881.8987	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+882.0811	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+882.6455	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+882.8776	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+883.1434	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+883.3921	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+883.7906	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+883.8070	DATA	earn L
+883.9029	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+883.9234	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+884.0064	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+885.5002	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+885.7159	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+885.9151	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+886.1475	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+886.3799	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+886.4295	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+886.4461	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+886.6289	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+886.7949	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+887.0437	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+887.3094	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+887.5249	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+887.8902	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+887.9563	DATA	earn L
+888.1060	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+888.3718	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+888.5876	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+888.8200	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+889.0355	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+889.0520	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+889.0855	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+889.4172	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+889.6164	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+890.4796	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+890.6455	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+890.7452	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+890.9607	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+891.4421	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+891.5583	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+891.6412	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+891.6577	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+891.6911	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+891.8901	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+891.9566	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+892.2221	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+893.2344	DATA	check
+894.2305	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+894.2468	DATA	check
+894.2638	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+895.2594	DATA	check
+895.2594	DATA	free R
+896.8362	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+896.8530	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+897.2843	DATA	check
+898.2967	DATA	check
+899.3092	DATA	check
+899.4421	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+899.4586	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+900.3216	DATA	check
+901.3341	DATA	check
+902.0481	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+902.0644	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+902.3465	DATA	check
+903.3590	DATA	check
+904.3714	DATA	check
+904.6536	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+904.6704	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+905.3839	DATA	check
+905.3839	DATA	free R
+907.2430	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+907.2763	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+907.4087	DATA	check
+907.4087	DATA	free R
+907.5244	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+907.7246	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+907.9567	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+908.2055	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+909.1683	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+909.3675	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+909.4504	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+909.6497	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+909.7821	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+909.8487	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+909.8654	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+910.0148	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+910.3799	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+910.5791	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+910.6953	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+910.9277	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+911.0436	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+911.2761	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+911.4090	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+911.6414	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+911.8074	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+912.0230	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+912.3053	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+912.4546	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+912.4711	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+912.5042	DATA	earn L
+912.5940	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+912.8698	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+913.0856	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+914.5291	DATA	check
+915.0603	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+915.0769	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+915.5415	DATA	check
+916.2555	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+916.4381	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+916.5211	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+916.7368	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+916.8364	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+917.0356	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+917.1352	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+917.2843	DATA	earn L
+917.3821	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+917.4173	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+917.6167	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+917.6496	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+917.6831	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+918.9774	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+919.2098	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+919.3260	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+919.3424	DATA	earn L
+919.5417	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+919.6415	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+919.8571	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+920.2555	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+920.2721	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+920.6538	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+920.8697	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+920.9691	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+921.1683	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+921.3011	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+921.3673	DATA	earn L
+921.5171	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+921.6663	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+921.8985	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+922.5956	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+922.8447	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+922.8612	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+922.8777	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+922.9609	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+923.1433	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+923.2597	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+923.4753	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+923.5917	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+923.8406	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+924.3715	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+924.6205	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+924.7201	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+924.9526	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+925.0521	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+925.2845	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+925.3510	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+925.4171	DATA	earn L
+925.5121	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+925.5335	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+925.6000	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+926.4963	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+926.7286	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+926.8612	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+927.0439	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+927.1933	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+927.4090	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+927.5420	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+927.7908	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+927.8571	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+928.0562	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+928.0728	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+928.0894	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+928.2223	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+928.4711	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+928.8363	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+928.8528	DATA	earn L
+929.0691	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+930.1309	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+930.3798	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+930.5625	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+930.6620	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+930.6953	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+930.8115	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+930.9941	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+931.2264	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+931.4091	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+931.6248	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+931.8239	DATA	{'pressed': True, 'port': 0, 'key': 0, 'time': 0}
+932.0562	DATA	{'pressed': False, 'port': 0, 'key': 0, 'time': 0}
+933.0685	DATA	check
+933.0685	DATA	free R
+933.2679	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+933.2848	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+935.0934	DATA	check
+935.8737	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+935.8904	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+936.1060	DATA	check
+937.1184	DATA	check
+938.1309	DATA	check
+938.4795	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+938.4963	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+939.1432	DATA	check
+939.1432	DATA	free R
+941.0686	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+941.1019	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+941.1682	DATA	check
+942.1806	DATA	check
+943.1931	DATA	check
+943.6744	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+943.6913	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+944.2056	DATA	check
+945.2180	DATA	check
+946.2305	DATA	check
+946.2805	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+946.2970	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+947.2429	DATA	check
+948.2554	DATA	check
+948.8862	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+948.9029	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+949.2677	DATA	check
+950.2803	DATA	check
+951.2927	DATA	check
+951.4754	DATA	{'pressed': True, 'port': 0, 'key': 4, 'time': 0}
+951.5087	DATA	{'pressed': False, 'port': 0, 'key': 4, 'time': 0}
+952.3052	DATA	check
+952.3053	DATA	free R
+953.3178	DATA	start rating A
+955.9404	DATA	EmulatedKey: 1
+956.3219	DATA	EmulatedKey: 1
+960.6372	DATA	EmulatedKey: 1
+963.3093	DATA	7.0
+963.3093	DATA	end rating A
+963.3096	DATA	start rating B
+964.4549	DATA	EmulatedKey: 0
+964.7203	DATA	EmulatedKey: 0
+964.9692	DATA	EmulatedKey: 0
+965.2015	DATA	EmulatedKey: 0
+973.3176	DATA	1.0
+973.3176	DATA	end rating B
